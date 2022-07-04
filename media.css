@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+ul#videoy iframe{
+	width: 1700;
+	margin: 0 auto;
+	padding: 50px;
+	overflow: hidden;
+	list-style: none;
+	
+}
